@@ -1,0 +1,16 @@
+body{
+    background-color: #5098cc;
+}
+
+.heading{
+    background-color: #ba4ce1;
+    font-family: cursive;
+    letter-spacing: 0.2em;
+    border: 2px solid rgb(111, 64, 203);
+    text-align: center;
+    color:orange;
+}
+
+.card{
+    
+}
